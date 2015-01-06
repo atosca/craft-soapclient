@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+/Applications/MAMP/bin/php/php5.6.1/bin/php -c /Applications/MAMP/bin/php/php5.6.1/conf/php.ini ~/Dropbox/Development/projects/vignette/seashare-donate-plugin/site/craft/plugins/loath/vendor/phpunit/phpunit/phpunit --bootstrap ~/Dropbox/Development/projects/vignette/seashare-donate-plugin/site/craft/app/tests/bootstrap.php --configuration ~/Dropbox/Development/projects/vignette/seashare-donate-plugin/site/craft/app/tests/phpunit.xml ~/Dropbox/Development/projects/vignette/seashare-donate-plugin/site/craft/plugins/loath/tests/
